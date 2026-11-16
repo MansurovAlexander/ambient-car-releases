@@ -1,8 +1,8 @@
 {
-  "versionCode": 0,
-  "versionName": "0.0.0",
-  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases",
-  "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-  "changelog": "Канал обновлений готов.",
-  "sizeBytes": 0
+  "versionCode": 1000,
+  "versionName": "0.1.0",
+  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.1.0/ambient-car-0.1.0.apk",
+  "sha256": "b32f6f0906d1b1aea01ac3f65988228ef147eca59a155f55161f1f8ee74d552e",
+  "changelog": "ci: fix keystore path and prepare version step",
+  "sizeBytes": 6697020
 }
