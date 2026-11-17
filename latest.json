@@ -1,8 +1,8 @@
 {
-  "versionCode": 3000,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.3.0/ambient-car-0.3.0.apk",
-  "sha256": "7d566c4e9a533d2c699c0e99168ebfe6cb24a1bfe5b13b0561eb9bffa26c97a4",
-  "changelog": "feat(ui): add effects, DIY and car controls",
-  "sizeBytes": 6834996
+  "versionCode": 4000,
+  "versionName": "0.4.0",
+  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.4.0/ambient-car-0.4.0.apk",
+  "sha256": "d5eb8a0f78f1c1ee2b0e07ff04e0c698d43592459f5e8be3587cb7964c809dea",
+  "changelog": "docs: update phases 4-6",
+  "sizeBytes": 6885612
 }
