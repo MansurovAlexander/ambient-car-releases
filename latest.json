@@ -1,8 +1,8 @@
 {
-  "versionCode": 6000,
-  "versionName": "0.6.0",
-  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.6.0/ambient-car-0.6.0.apk",
-  "sha256": "0bf87a71b81d1ef1100c28701832a0196a4bded7acb2a91ce0da114ec5f68736",
-  "changelog": "docs: sync debug and timer hardening",
-  "sizeBytes": 6928960
+  "versionCode": 7000,
+  "versionName": "0.7.0",
+  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.7.0/ambient-car-0.7.0.apk",
+  "sha256": "76111e5a0a4bb129c733cd627d7453b565342f283f213c1539540221813e00a6",
+  "changelog": "docs: document multi-device groups",
+  "sizeBytes": 6947128
 }
