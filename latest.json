@@ -1,8 +1,8 @@
 {
-  "versionCode": 4000,
-  "versionName": "0.4.0",
-  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.4.0/ambient-car-0.4.0.apk",
-  "sha256": "d5eb8a0f78f1c1ee2b0e07ff04e0c698d43592459f5e8be3587cb7964c809dea",
-  "changelog": "docs: update phases 4-6",
-  "sizeBytes": 6885612
+  "versionCode": 5000,
+  "versionName": "0.5.0",
+  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.5.0/ambient-car-0.5.0.apk",
+  "sha256": "7b3bc3b7c9658ae00b7195f15bc94fb036baf1c94164c1d81e90b3271aa64040",
+  "changelog": "fix: pass system audio analyzer to view model factory",
+  "sizeBytes": 6905308
 }
