@@ -1,8 +1,8 @@
 {
-  "versionCode": 10000,
-  "versionName": "0.10.0",
-  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.10.0/ambient-car-0.10.0.apk",
-  "sha256": "6944f5f5979945f11fbac034dd3e4fef5a057a986f925cdae592effa3bc13b5a",
-  "changelog": "docs: record icons and motion CI run",
-  "sizeBytes": 7427085
+    "versionCode":  10000,
+    "versionName":  "0.10.0",
+    "apkUrl":  "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.10.0/ambient-car-0.10.0.apk",
+    "sha256":  "6944f5f5979945f11fbac034dd3e4fef5a057a986f925cdae592effa3bc13b5a",
+    "changelog":  "0.10.0\n\n- Новая иконография: единый штриховой набор для питания, эффектов, музыки, сцен, группы и вкладок; monochrome-иконка для themed icons.\n- Плавные переходы между экранами и вкладками с учётом системного reduced motion.\n- Пустые состояния с иконками: подключение, сцены, журнал отладки.\n- Контрастные обводки карточек и акцентная карточка питания.\n- 182 JVM-теста, включая UI-тесты общих компонентов.",
+    "sizeBytes":  7427085
 }
