@@ -1,8 +1,8 @@
 {
-    "versionCode":  8000,
-    "versionName":  "0.8.0",
-    "apkUrl":  "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.8.0/ambient-car-0.8.0.apk",
-    "sha256":  "447e678afada4b42ce51a9d8612398b03881495a136e6d8b9227b362c89a62d8",
-    "changelog":  "0.8.0\n\n- Смена основной лампы группы и общий контекст группы.\n- Причина отказа для каждой лампы и типизированные ошибки.\n- Отмена сохранения и удаления сцены.\n- Тактильный отклик для вкладок, быстрых действий, настроек, онбординга и выбора.\n- Единая верхняя панель с меню «Ещё».\n- Прокрутка экрана «Подключение» при крупном шрифте.\n- Ограничение группы объявляется TalkBack, недоступная строка помечается.\n- Общий snackbar и исправленный заголовок верхней панели.",
-    "sizeBytes":  7421397
+  "versionCode": 9000,
+  "versionName": "0.9.0",
+  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.9.0/ambient-car-0.9.0.apk",
+  "sha256": "bbaa4612d3d1f5916596c2238719ce9ee8674534afdb5711740ed8522b7a258a",
+  "changelog": "docs: record empty states CI run",
+  "sizeBytes": 7422241
 }
