@@ -1,8 +1,8 @@
 {
-  "versionCode": 11000,
-  "versionName": "0.11.0",
-  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.11.0/ambient-car-0.11.0.apk",
-  "sha256": "d5f6897a24e93e42949c17ed36ff4fa000c9b298651f54b99155e29ac3b7d515",
-  "changelog": "docs: record power and color CI run",
-  "sizeBytes": 7434337
+    "versionCode":  11000,
+    "versionName":  "0.11.0",
+    "apkUrl":  "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.11.0/ambient-car-0.11.0.apk",
+    "sha256":  "d5f6897a24e93e42949c17ed36ff4fa000c9b298651f54b99155e29ac3b7d515",
+    "changelog":  "0.11.0\n\n- Компактная шапка «Управления»: быстрые действия переехали в меню «Ещё», вкладки стали одной строкой — контенту больше места.\n- Вкладка «Авто» перегруппирована: «Приветствие», «Зоны салона», «Направление DMX» и «Редкие команды» с пояснениями и подтверждением отправки.\n- Карточка питания показывает состояние и меняет вид при выключении; у свитча появилось доступное имя.\n- На цветовом колесе виден выбранный цвет: заливка маркера, образец и HEX-код.\n- 185 JVM-тестов, включая UI-тесты общих компонентов.",
+    "sizeBytes":  7434337
 }
