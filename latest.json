@@ -1,8 +1,8 @@
 {
-  "versionCode": 9000,
-  "versionName": "0.9.0",
-  "apkUrl": "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.9.0/ambient-car-0.9.0.apk",
-  "sha256": "bbaa4612d3d1f5916596c2238719ce9ee8674534afdb5711740ed8522b7a258a",
-  "changelog": "docs: record empty states CI run",
-  "sizeBytes": 7422241
+    "versionCode":  9000,
+    "versionName":  "0.9.0",
+    "apkUrl":  "https://github.com/MansurovAlexander/ambient-car-releases/releases/download/v0.9.0/ambient-car-0.9.0.apk",
+    "sha256":  "bbaa4612d3d1f5916596c2238719ce9ee8674534afdb5711740ed8522b7a258a",
+    "changelog":  "0.9.0\n\n- Новый дизайн-фундамент: брендовая бирюзовая палитра на всех устройствах, единая типографика, формы и семантические поверхности.\n- Акцентная карточка питания и более ясная иерархия экрана управления.\n- Единые пустые состояния с иконками и подсказками: подключение, сцены, журнал отладки.\n- Улучшена доступность: заголовки-ориентиры, объявление результатов поиска, контрастные обводки.\n- 181 JVM-тест, включая UI-тесты общих компонентов.",
+    "sizeBytes":  7422241
 }
